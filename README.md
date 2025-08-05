@@ -26,7 +26,8 @@ To create a predictive model that classifies whether a tumor is **malignant** or
 - Pandas & NumPy
 - scikit-learn
 - Matplotlib & Seaborn
-- Jupyter Notebook
+- **Kaggle Notebook**
+
 
 ---
 
