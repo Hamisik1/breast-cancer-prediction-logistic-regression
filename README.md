@@ -16,9 +16,10 @@ To build a simple yet effective machine learning model using Logistic Regression
 
 ## 📁 Project Structure
 .
-├── README.md
-├── breast-cancer-detection.ipynb # (Optional - if you download and include the notebook)
-└── 📎 Link to notebook hosted on Kaggle
+├── README.md                  # Project overview and documentation
+└── 📎 Notebook hosted on Kaggle
+     https://www.kaggle.com/code/kellyhamisi/breast-cancer-detection-with-logistic-regression
+
 
 
 ---
