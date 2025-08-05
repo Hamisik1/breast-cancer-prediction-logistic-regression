@@ -15,7 +15,7 @@ To build a simple yet effective machine learning model using Logistic Regression
 ---
 
 ## 📁 Project Structure
-.
+
 ├── README.md                  # Project overview and documentation
 
 └── 📎 Notebook hosted on Kaggle
